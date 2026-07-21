@@ -60,12 +60,12 @@ Chef will be able to read only $6$ pages, falling short of the required $7$ page
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-21T09:50:22.435Z  
+**Submitted:** 2026-07-21T09:50:38.670Z  
 
 ```py
 a,b,c=map(int,input().split())
 h=a*c
-if h==b:
+if h>=b:
     print("YES")
 else:
     print("NO")
