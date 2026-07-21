@@ -54,7 +54,7 @@ NOTHING
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-21T12:24:11.658Z  
+**Submitted:** 2026-07-21T12:24:23.203Z  
 
 ```py
 t=int(input())
@@ -62,9 +62,9 @@ for _ in range(t):
     a,b,c=map(int,input().split())
     if a>=b and a>=c:
         print("PIZZA")
-    elif a>b:
+    elif a>=b:
         print("PIZZA")
-    elif a>c:
+    elif a>=c:
         print("BURGER")
     else:
         print("NOTHING ")
