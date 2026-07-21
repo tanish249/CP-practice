@@ -61,12 +61,12 @@ Chef needs $400$ rupees to buy all the ingredients, and then sells it for $100$ 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-21T05:36:39.581Z  
+**Submitted:** 2026-07-21T05:36:57.461Z  
 
 ```py
 a,b,c=map(int,input().split())
 h=b+c
-print(abs(a-h))
+print(a-h)
 ```
 
 ---
