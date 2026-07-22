@@ -66,7 +66,7 @@ Half of $9$ is $4.5$. Ved has errors in less than half the lines, thus he is a p
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-22T09:06:36.509Z  
+**Submitted:** 2026-07-22T09:07:02.955Z  
 
 ```py
 a,b=map(int,input().split())
