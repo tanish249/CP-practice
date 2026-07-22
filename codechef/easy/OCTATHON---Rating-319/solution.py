@@ -1,8 +1,7 @@
 a=int(input())
-if a<3:
+if 3>a:
     print("GOLD")
-elif a>=3 and a<6:
+elif a>=3 and 6>a:
     print("SILVER")
-elif a>=6:
+else:
     print("BRONZE")
-    
