@@ -96,11 +96,11 @@ The AQI is greater than $100$. Thus, the government was not able to keep the AQI
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-22T05:25:34.410Z  
+**Submitted:** 2026-07-22T05:25:48.447Z  
 
 ```py
 a=int(input())
-if 50>a:
+if 100>a:
     print("YES")
 else:
     print("NO")
