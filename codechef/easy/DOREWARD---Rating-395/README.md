@@ -65,17 +65,17 @@ GOLD
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-21T13:07:59.291Z  
+**Submitted:** 2026-07-22T12:17:18.002Z  
 
 ```py
 t=int(input())
 for _ in range(t):
     a=int(input())
-    if(a<=3):
+    if 3>=a:
         print("BRONZE")
-    elif(a>3 and a<=6):
-        print("SILVER")
-    elif(a>6):
+    elif a>3 and 6>=a:
+        print("silver")
+    elif a>6:
         print("GOLD")
 ```
 
