@@ -61,7 +61,7 @@ Even if Om uses the whole Gymkhana fund, he won't be able to buy the laptop.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-22T12:14:24.682Z  
+**Submitted:** 2026-07-22T12:14:48.853Z  
 
 ```py
 a,b,c=map(int,input().split())
