@@ -58,14 +58,14 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-21T05:38:28.128Z  
+**Submitted:** 2026-07-22T09:13:30.266Z  
 
 ```py
 t=int(input())
 for _ in range(t):
     a,b=map(int,input().split())
-    h=a*7
-    print(abs(b-h))
+    h=7*a
+    print(abs(h-b))
 ```
 
 ---
