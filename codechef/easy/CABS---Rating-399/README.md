@@ -57,7 +57,7 @@ SECOND
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-21T09:05:37.640Z  
+**Submitted:** 2026-07-22T05:34:56.585Z  
 
 ```py
 t=int(input())
@@ -65,9 +65,9 @@ for _ in range(t):
     a,b=map(int,input().split())
     if a>b:
         print("SECOND")
-    elif a<b:
-        print('FIRST')
-    elif a==b:
+    elif b>a:
+        print("FIRST")
+    else:
         print("ANY")
 ```
 
