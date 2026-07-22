@@ -1,5 +1,5 @@
 a=int(input())
-if 50>a:
+if 100>a:
     print("YES")
 else:
     print("NO")
