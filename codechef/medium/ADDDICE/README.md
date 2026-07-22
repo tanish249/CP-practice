@@ -41,6 +41,7 @@ The second dice could show a $6$, and then both would add to a $9$.
 ### Sample 2:
 Input
 Output
+Copy to clipboard
 
 ```
 1
@@ -61,7 +62,7 @@ There are no possible rolls of the second die that add to $9$ after rolling a $1
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-22T15:48:33.024Z  
+**Submitted:** 2026-07-22T15:48:40.586Z  
 
 ```py
 a=int(input())
