@@ -58,13 +58,13 @@ NO
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-22T05:10:19.584Z  
+**Submitted:** 2026-07-22T06:41:28.779Z  
 
 ```py
 t=int(input())
 for _ in range(t):
     a=int(input())
-    if 250>=a and 1000>=a*4:
+    if 250>=a:
         print("YES")
     else:
         print("NO")
