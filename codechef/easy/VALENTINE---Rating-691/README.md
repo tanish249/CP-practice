@@ -56,13 +56,13 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-23T06:40:19.178Z  
+**Submitted:** 2026-07-23T06:40:50.130Z  
 
 ```py
 t=int(input())
 for _ in range(t):
     a,b=map(int,input().split())
-    if a>b:
+    if a>=b:
         print(int(a/b))
     else:
         print(0)
