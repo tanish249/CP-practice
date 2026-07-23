@@ -58,7 +58,7 @@ Fail
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-22T16:00:10.037Z  
+**Submitted:** 2026-07-22T16:00:33.803Z  
 
 ```py
 t = int(input())
