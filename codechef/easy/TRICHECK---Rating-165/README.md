@@ -78,14 +78,14 @@ Yes
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-24T09:05:48.005Z  
+**Submitted:** 2026-07-24T09:07:24.042Z  
 
 ```py
 a,b,c=map(int,input().split())
 if(a+b>c and a+c>b and b+c>a):
     print("YES")
 else:
-    print("N")
+    print("No")
 ```
 
 ---
