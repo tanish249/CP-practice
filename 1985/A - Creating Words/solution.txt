@@ -1,0 +1,9 @@
+t = int(input())
+ 
+for _ in range(t):
+    a, b = map(str, input().split())
+ 
+    x = b[0] + a[1] + a[2]
+    y = a[0] + b[1] + b[2]
+ 
+    print(x, y)
